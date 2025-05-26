@@ -38,3 +38,64 @@ Siacoin is integral to Sia’s vision of a decentralized internet, where users c
 <img src="./SC_@.png" align="center">
 </p>
 
+## Siacoin (SIA) Price Forecasting Analysis
+
+### Chart Interpretation (Simple Breakdown)
+
+What You're Looking At:
+- Blue Line: SIA's actual price history - what already happened
+- Red Line: Our AI model's prediction for future prices
+- Red Shaded Area: The "uncertainty zone" - where price could realistically go
+
+### The Story the Chart Tells:
+
+- Past Performance: SIA started around $0.007 → dropped to $0.004 → had major spike to $0.008 → crashed back to $0.003
+- Current Position: Price is at relatively low levels around $0.003-0.0035
+- Future Prediction: Model expects gradual recovery to $0.0037-0.004 range
+
+## Price Direction Prediction
+
+### Short-term Outlook (Next 1-2 Months):
+
+- Direction: SIDEWAYS TO SLIGHTLY UP 📈
+- Target Range: $0.0037-0.004 (median prediction)
+- Why: After major correction from $0.008 peak, model expects slow recovery from oversold levels
+
+### Probability Scenarios:
+
+- Most Likely (50%): Price recovers to $0.0037-0.004 range
+- Bullish Case (25%): Could push to $0.005-0.006 if buying pressure increases
+- Bearish Case (20%): Further decline to $0.0025-0.003 support
+- Extreme Moves (5%): Back to $0.008 highs or below $0.002
+
+### Key Insights & Recommendations
+
+🔍 Key Insights:
+- Strong Support at $0.0025-0.003: This level is holding after the major crash
+- Recovery Pattern: Model shows gradual upward trend from current lows
+- Lower Volatility: Prediction bands are tighter than HYPE, suggesting more stable movement
+- Oversold Bounce: Current levels appear to be near bottom based on historical patterns
+
+💡 Recommendations:
+For Current SIA Holders:
+- Hold positions - worst appears to be over based on model
+- Average down if you believe in long-term potential
+- Set targets around $0.004-0.005 for partial profit-taking
+
+For Potential Buyers:
+
+- Good entry opportunity at current $0.003 levels
+- Dollar-cost average over next few weeks
+- Consider accumulating - risk/reward favorable at these levels
+
+Risk Management:
+
+- Stop-loss below $0.0025 (historical support)
+- Position sizing - SIA is higher risk/reward than major cryptos
+- Patience required - recovery may be gradual, not explosive
+
+Bottom Line:
+Model suggests SIA has found a bottom around $0.003 and expects gradual recovery to $0.004 range. Current levels offer attractive risk/reward for patient investors, with limited downside and decent upside potential. Much more favorable setup than HYPE at current prices.
+
+Risk Level: Medium - Lower than HYPE due to oversold conditions, but still volatile crypto asset.
+
