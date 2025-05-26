@@ -40,10 +40,6 @@ Founded by Harvard alumni Jeff Yan and Iliensinc, with a team from institutions 
 <img src="./HYPE_@.png" align="center">
 </p>
 
-### Picture D
-<p align="center">
-<img src="./HYPE_VOLUME.png" align="center">
-</p>
 
 ## HYPE Price Forecasting Analysis
 
