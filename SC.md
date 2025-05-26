@@ -20,3 +20,21 @@ Siacoin (SC) is the native cryptocurrency of the Sia network, a decentralized cl
 - Challenges: Sia faces competition from projects like Filecoin and Arweave, and its user interface can be complex for non-technical users. Adoption is growing but remains niche.
 
 Siacoin is integral to Sia’s vision of a decentralized internet, where users control their data without relying on centralized intermediaries. For more details, you can explore Sia’s official site or check recent posts on X for community sentiment.
+
+## Forecast using pretrained model from Amazon
+
+### Picture A
+<p align="center">
+<img src="./SC_!.png" align="center">
+</p>
+
+### Picture B
+<p align="center">
+<img src="./SC_0.png" align="center">
+</p>
+
+### Picture C
+<p align="center">
+<img src="./SC_@.png" align="center">
+</p>
+
