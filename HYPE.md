@@ -32,7 +32,7 @@ Founded by Harvard alumni Jeff Yan and Iliensinc, with a team from institutions 
 
 ### Picture B
 <p align="center">
-<img src="./HYPE_?.png" align="center">
+<img src="./HYPE_0.png" align="center">
 </p>
 
 ### Picture C
