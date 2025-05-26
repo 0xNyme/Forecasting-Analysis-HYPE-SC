@@ -1,5 +1,5 @@
 # Hyperliquid Forecasting analysis
-
+![image]()
 ## What is HYperliquid?
 Hyperliquid is a decentralized exchange (DEX) built on its own high-performance Layer-1 blockchain, HyperEVM, designed specifically for derivatives trading, particularly perpetual futures contracts. It combines the speed and user experience of centralized exchanges (CEXs) with the transparency and security of decentralized finance (DeFi). 
 Key features include:
