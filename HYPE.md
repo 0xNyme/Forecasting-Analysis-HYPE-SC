@@ -40,3 +40,64 @@ Founded by Harvard alumni Jeff Yan and Iliensinc, with a team from institutions 
 <img src="./HYPE_@.png" align="center">
 </p>
 
+## HYPE Price Forecasting Analysis
+
+### Chart Interpretation (Simple Breakdown)
+
+#### What You're Looking At:
+- **Blue Line**: HYPE's actual price history - what already happened
+- **Red Line**: Our AI model's prediction for future prices
+- **Red Shaded Area**: The "uncertainty zone" - where price could realistically go
+
+#### The Story the Chart Tells:
+1. **Past Performance**: HYPE went from $8 → $32 → crashed to $12 → recovered to $35
+2. **Current Position**: Price is at high levels around $35
+3. **Future Prediction**: Model expects prices to stabilize/slightly decline to $30-34 range
+
+---
+
+### Price Direction Prediction
+
+#### Short-term Outlook (Next 1-2 Months):
+- **Direction**: **SIDEWAYS TO SLIGHTLY DOWN** 📉
+- **Target Range**: $30-34 (median prediction)
+- **Why**: After strong rally from $12 to $35, model expects consolidation phase
+
+#### Probability Scenarios:
+- **Most Likely (50%)**: Price stays between $30-35
+- **Bullish Case (20%)**: Could push to $40-45 if momentum continues  
+- **Bearish Case (20%)**: Pullback to $20-25 support levels
+- **Extreme Moves (10%)**: Beyond $45 or below $20
+
+---
+
+## Key Insights & Recommendations
+
+### 🔍 **Key Insights:**
+
+1. **Strong Support at $12-15**: This level held during the crash - important floor
+2. **Current Levels Are Extended**: $35 is near the top of our forecast range
+3. **High Volatility Expected**: Wide prediction bands show big moves are possible
+4. **Model is Conservative**: Doesn't expect parabolic continuation of recent rally
+
+### 💡 **Recommendations:**
+
+#### For Current HYPE Holders:
+- **Consider taking partial profits** at current $35 levels
+- **Set stop-loss** below $20 to protect against major downside
+- **Don't chase higher** - model suggests limited upside from here
+
+#### For Potential Buyers:
+- **Wait for pullback** to $25-30 range for better entry
+- **Dollar-cost average** if you must buy now (don't go all-in)
+- **Be patient** - consolidation phases offer better buying opportunities
+
+#### Risk Management:
+- **Position Size**: Don't risk more than you can afford to lose
+- **Diversification**: Don't put all capital in one crypto
+- **Stay Updated**: Market conditions change rapidly
+
+---
+
+**Bottom Line**: Model suggests HYPE is due for a breather after its strong run. Current levels around $35 offer limited upside with significant downside risk. Better opportunities likely ahead at lower prices.
+
